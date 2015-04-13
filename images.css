@@ -1,0 +1,12 @@
+.image1{
+	position: absolute;
+	content: url('1.png');	
+}
+
+.image2{
+	position: absolute;
+	content: url('2.png');
+}
+
+
+
